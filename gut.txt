@@ -1,0 +1,248 @@
+Gut - microbiome
+
+Gut Check: Exploring Your microbiome
+University of Colorado Boulder & University of Colorado System
+
+AT: https://www.coursera.org/learn/microbiome/lecture/4y3XN/where-do-you-get-your-microbes
+
+Week
+1. Introduction to Microbes and the Human Microbiome
+  - Microbes
+  - Microbiome
+  - Human Microbiota
+  - Where do we get microbes from
+  - assignment
+2. Studying the Microbiome
+
+
+-------------------------------------------------------------------------------------------------
+
+1. Introduction to Microbes and the Human Microbiome
+-------------------------------------------------------------------------------------------------
+
+Microbes
+  - most numerous and diverse organisms on earth
+  - gut microbes == brain, in weight, about 3 pounds.
+  - effect medications, gut microbes process these in different ways
+  - can also effect if a diet will work for you, effect behaviour, health,
+  - some live in the earths crust, 7km down (Desulforudis audaxviator)
+    - http://www.bbc.com/news/science-environment-23855436  (100 million years old!)
+    - prokaryotes -  reproducing every 10K years! - the edge of defining what is life
+  - converted our early CO2 world into an O2 world
+  - help with cycle of life, decomposing organic material (carbon), helping plants to grow (nitrogen)
+  - they are the only organisms that take nitrogen and convert it to usable products for plants
+  - we only need fertilizer when we have depleted the microbes that do this job
+  - they can clean waste water, oil spills
+  - 10 orders of magnitude more microbial cells on earth than stars in the heavens.
+  - no formal definition, basically to small to be seen by the naked eye
+  - can be good, bad, & symbiotic. Finding out that if it seems symbiotic, it is probably good.
+  - single celled organisms, can be classified as
+    - bacterial - can reproduce themselves
+                - simple compared to eukaryotes
+                - love sugar as a food source, pumped into soil from plants photosynthesis
+                - dna not stored in a nucleus. Humans cells have a container inside called a nucleus.
+                - come in three shapes
+                  - bascili (rods)
+                  - cocsi (balls)
+                  - spirals    They perform different cellular functions
+                - can make us sick, or give us vitamins, hard to tell by shape
+                - mostly solitary, but can form in groups ie film in morning mouth
+    - archaea - simple compared to eukaryotes
+              - dna not stored in a nucleus.
+              - can reproduce themselves
+              - like bacteria, only can tell apart by dna
+              - can live in extreme environments (hot, cold, salty), use sulpher for food
+                - produce methane deep in a cows gut, live i
+    - eukaryotes - much more complex
+              - can reproduce themselves
+              - dna is stored in a nucleus, like humans.
+              - one major group is fungi - can be small and single celled or large & multicelled
+                - yeast is a single celled fungus, considered a microbe
+                - fingi decompose organic material, using enzymes, then absord nutrients thru cells
+                - most fungel cells are static and cannot move on their own
+              - another group called protozoa, primitive algea, amoebas, slime mould
+                - hoever, they can spread using spores, and other methods
+    - viruses - are at the border of what we consider living things
+              - made up of genetic material, dna, & rna, inside a protein coat.
+              - yhey have a nucleus
+              - completely inactive until they come in contact with a host
+              - they cannot reproduce without infecting a cell
+              - inject their material into the host, they cannot reproduce themselves
+              - much smaller than bacteria or archaea
+              - ebola, common flu, swine flu
+
+
+Microbiome
+  - This effects many animals, it is very critical to health
+  - the health of amphibians is declining because of this, natural bacteria on the skin
+    - a fungal pathogen, effects the skin osmo-regulate (transferring gases and moisture)
+  - changes colour of feathers, breathe thru skin.
+  - flighted animals, gut mircobiome is critical for bone density & flight. what is microbes role?
+
+  http://americangut.org/.
+
+  10 trillion human cells
+  100 trillion microbial cells
+  Therefore: Our bodies only 10% human cells
+
+  20,000 human genes
+  2-20 million microbial genes
+  Therefore: Our bodies only 0.1-1% human genes
+
+  Any two people have  aboutn 99.99% same dna
+
+
+Human Microbiota
+  The collection of trillions of mircobes living in and on the human body
+  The community of microbes residing on and in the human body (all single cell)
+    - bacteria
+    - archaea
+    - viruses
+    - microeukaryotes
+  Different parts of the body have different "climates" of microbes.
+    - forehead - high count, low diversity
+    - palm - low count, high diversity
+    - nose - innocuous bacteria keep infectious bacteria at bay
+    - mouth - most bacteria here is beneficial, lay down biofilms
+            - fascinating biogeography, very diverse
+    - gut - the mecca of microbes
+      - large vs small intestines, very different microbes
+    - most important ones help digest food
+
+
+Where do we get microbes from
+  Different sites on the body have different biomes.
+  Four major distinct areas are
+    -oral (mouth)
+    -skin
+    -vaginal
+    -gut (fecal material)
+  People will have simiar % (cluster) of microbe types in these area
+  Babies will not have any communities but are similar everywhere
+    - if a vaginal birth, then microbes from that community
+    - c-section, microbes cluster around the skin microbe types
+      - studies about the health of babies c-sec vs vaginal
+      - antibiotic knock out many microbes, but they bounce back
+
+
+
+Assignment
+  List three factors and explain (in three sentences or fewer for each) why you think each might affect gut microbes.
+  1. Antobiotics
+  - The killing of microbes by antibiotics means that the ones that survive will have a free reign for a while to multiply. It also allows ones that survive to have some immunity for the next round of anitbiotics. An occasional dose of antibiotics is fine as they seem to bouncs back, but repeated use cannot be a good thing.
+  2. Food
+  - The quality of food we eat will affect the microbes. A diverse and healthy diet, free of artificial processing will allow a wider range of microbes to exist. I am going to guess that raw milk, full of microbes is much more healthy than pasteurized milk where they are sterilzed.
+  3. Environment
+  - An environment constantly cleansed of microbes by constantly killing them will limit the variety of microbes that we have. I am guessing that the wider the variety the better it is for us.
+
+--------------------------------------------------------------------------------------
+2. Studying the Microbiome
+
+History
+  Man has used microbial processes: bread, beer, cheese, wine, sausage, ...
+  Dutch Microbiologist Leeuwenhoek's microscopes first allowed us to peer into the bacterial world.
+    - teeth scrubs, first glimpse into human micobiota
+    - only could observe, so can't learn mmuch
+  Robert Koch in the 1880s grew cultures, so now we can separate different kinds of bacteris
+    - so now we can study an individual cultures
+    - isolated disease causing bacterias (pathogen)
+    - cultures this pathogen, introduced into a healthy live host, & re-isolated that pathogen
+  Culture of microbes - means growth of microbes in a medium, that grow into a large number of similar cells. The medium may support a single kind or multiple kinds of microbes, even having a dye to separate microbes. But not all microbes can grom in a culture, in fact, very few can be cultured. It is very hard to differentiate microbes, you can only do it with ribosomal DNA (RNA?) Many microbes cannot be cultured.
+
+High Throughput DNA Sequencing
+  - you can only count on morphology (shape) for limited info
+  - culturing can only id limited microbes, and very few gut microbes
+  - so DNA is key, it is wrapped up in a "phosphate backbone", made up of
+    - A Aenine - can only pair with Thymine
+    - T Thymine
+    - C Cystocine - can only pair with Guanine
+    - G Guanine
+    - Nucleotide
+  - Genome refers to all the DNA in a living organism. It is s blueprint
+  - In our Genome, the DNA is organized into genes
+    - genes are regions of the genome that correspond to a unit inheritance, like hair colour and blood type
+    - gene is a single part of the entire blueprint of the cell.
+    - sometimes multiple genes are required to set things.
+    - to pass on information, genes are transcribed into messages (RNA) and translated into proteins
+    - proteins do most of the work, think of machines doing the building
+    - some genes are the same in all organisms, mostly important functions to make the cells work
+    - other genes are specific to the organism
+    - in microorganisms, this could be what the microbe uses select certain compounds as a food source.
+    - in microbes, some genes are "conserved" and others are "variable"
+    - the "variable parts drive the evolution of the species, or its change in time in response to the environment
+  DNA-based community analysis targets a gene present in all microbial community members
+    - conserved regions - a target to find all microbes. Use the "conserved" regions to pinpoint the gene
+    - variable regions - allow us to distinguish between different kinds (species) of microbes.
+    - 16S rRNA gene is found in all bacteria and archaea, humans do not have this gene
+    - 16S rRNA gene is ~1500 nuclotides long, the V4 region
+  How to?
+    - Extract the DNA out of the cells
+      - This requires physical and chemical processes.
+      - You want to poke holes in cell membranes to extract, also "lysed" to disrupt plasma membrane
+      - This mixture is then treated with protease to destroy protein and RNAase to destroy RNA.
+      - This mixture is pelleted in a centrifuge. The supernantant (liquid) containing DNA is put in clean tube.
+    - Make copies of  part of the 16S DNA V4 region (polymes chain reaction)
+    - Sequence 16S DNA
+    - Use sequences to distinguish microbes from each other
+    - In your samples (ie fecal) you may also get DNA from plants or other things
+    - We only want microbial DNA, throw away the rest
+    - Use PCR to mimic how nature copies DNA.
+  How does nature do it?
+    - First it has to unwind, an enzyme called Helicase, its like a zipper unzipping the DNA
+    - Next, an enzyme called DNA Polymerase comes along and finds matching base pairs.
+    - So the old DNA is now split into 1/2 of the each of the new DNAs creation.
+      - Need single stranded DNA as a template.
+      - Need a place to start unwinding the DNA.
+      - Needs free nucleotides. A G T C
+  PCR Polymerase chain reaction
+    - Need a "Primer" (oligonucleotide) a small piece of man-made DNA to tell PCR where to start and stop
+    - This allows us to target specific genes or gene regions
+    - For example, to get the V4 region of 16S, we match up a "conserved" region before and after V4 with Primers.
+      1. Heat helps unzip DNA
+      2. Primers attach
+      3. DNA polymerase adds nucleotides
+      4. DNA copies complete
+    - This processes repeats and at the end we'll have 100s of millions of copies
+    - We then purify, no unwanted DNA
+    Sequence the remaining DNA by
+      0. Making copies of the DNA, but now we keep track of the nucleotides added
+      1. Fluorescently labeled nucleotides (dye & reversable blocking agent) are added one at a time.
+      2. Once added it blocks all other nucleotides
+      3. The dye lets us see what nucleotides get added
+      4. Each base has a different colour, that a camera can see.
+      5. Once the colour is detected, the nucleotides is unblocked so the process can continue
+      6. Keeping track of the colour, we are keeping track of the sequence.
+      7. You'll need to do 10,000s sequencing to thuroughly descibe the community.
+    High put DNA sequencers do this job.
+
+    Omic Techniques
+      We want to know what microbes are doing in the gut. When we look at the gut we'll see
+        - microbial eukaryote
+        - food particals
+        - human cells
+        - bacterial cells
+        - viruses
+
+      Bacterial cells contain many molecules, which we can analyze. They come in many shapes & sizes. We'll focus on bacterial and how it effects our health.
+        - we can tagret a specific gene 16s RNA which gives us a good idea of the bacteria in the gut
+        - We can sequence all the DNA, called "shotgun"
+        - we can sequence their entire genome
+        - we learn what is present and the types of genes they have.
+
+      genomics - the study of DNA
+
+      transcriptomics - study RNA (via sequencing). Tells us what genes in microbes are being used by mRNAs.
+        Only some of the DNA in a cell is copied into messenger RNA which is the first step to make a protein. RNA is similar to DNA except in one nucleotide base: Thymine -> Uracil. IT helpds the DNA blueprints get to the place in the cell where proteins are built. It allows RNA to be more flexible than DNA. Sequencing RNA is called transcriptomics, and this provides a more accurate snapshot of the genes that are actually being used in the genomes of bacteria.
+
+      proteomics - study of proteins. Tells us what proteins are present in the gut.
+        RNA is then translated into amino acids that are strung together into proteins which are the workhorse or machines of the cell. The study of proteins called proteomics. Proteins are large molecules that perform many functions including moving other molecules, signaling other cells, and initiating important chemical reactions. By identifying the proteins generated by bacteria we can even more finely tune our understanding of what bacteria are doing in the human gut. The human gut microbiome has a core of about 1,000 proteins. The proteins produced by bacteria can have influence on the physiology of the host organism i.e., health vs. disease. This technique helps understand the function of the microbial community.
+
+        In a set of Swedish twins, one has Chrons (colon) and the other does not. One difference we've found is that the person with Chrons lacks Faecalibacterium, which is a beneficial micro-organism that creates short-chain fatty acids. This is not be the entire problem but it is an important clue.
+
+      metabolomics - study of intermediates and end products of metabolism.
+        The last set of molecules include intermediates and end products of metabolism as well as hormones, signaling molecules, sugars, and lipids. The study of these is called metabolomics. v\We learn valuable insights into the products of microbial action & gut digestion. These provide insights into the human gut microbiome important diseases such as cystic fibrosis. Also host - microbe interaction.
+
+
+
+
+    ...lesson 6
