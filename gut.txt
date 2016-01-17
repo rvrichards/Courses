@@ -73,6 +73,8 @@ Microbes
 
 
 Microbiome
+  - (def) the collection of genomes of microbes in a system
+  - (def) the totality of microorganisms and their collective genetic material present in a system
   - This effects many animals, it is very critical to health
   - the health of amphibians is declining because of this, natural bacteria on the skin
     - a fungal pathogen, effects the skin osmo-regulate (transferring gases and moisture)
@@ -93,6 +95,8 @@ Microbiome
 
 
 Human Microbiota
+
+  Microbiota is the collection of organismsof a particular site, habitat, or geological period.
   The collection of trillions of mircobes living in and on the human body
   The community of microbes residing on and in the human body (all single cell)
     - bacteria
@@ -213,7 +217,7 @@ High Throughput DNA Sequencing
       5. Once the colour is detected, the nucleotides is unblocked so the process can continue
       6. Keeping track of the colour, we are keeping track of the sequence.
       7. You'll need to do 10,000s sequencing to thuroughly descibe the community.
-    High put DNA sequencers do this job.
+    High output DNA sequencers do this job.
 
     Omic Techniques
       We want to know what microbes are doing in the gut. When we look at the gut we'll see
@@ -229,6 +233,7 @@ High Throughput DNA Sequencing
         - we can sequence their entire genome
         - we learn what is present and the types of genes they have.
 
+      Here are the tachniques we use, ordered from the "beginning" to the "end"
       genomics - the study of DNA
 
       transcriptomics - study RNA (via sequencing). Tells us what genes in microbes are being used by mRNAs.
@@ -244,5 +249,3 @@ High Throughput DNA Sequencing
 
 
 
-
-    ...lesson 6
