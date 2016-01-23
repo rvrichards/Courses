@@ -274,6 +274,17 @@ Assignment
 
 
   Diversity of microbes in a Community.
-    Alpha Diversity
+    Alpha Diversity - describes how many organisms there are in a sample and how abundant they are.
+    Shannon and Simpson Diversity - used to describe diversity in ecosystems, richness & evenness.
+    Faith's phylogenetic distance - accounts for phylogeny - where they are in family tree.
 
-  https://www.coursera.org/learn/microbiome/lecture/j5bSx/basics-of-alpha-diversity-with-fuzzy-microbe-demo
+      The more diversity in a community, the stronger it is and the more functions it performs. This is functional redundancy. Also, if one species goes extinct, another can take over some of its functions. Also, they are resistent to invasion of exotic species or pathogens that come in and try to take over.
+
+      When examining a community, you can't sequence them all, you can only do a part. The more samples the better, however, the results will plateau and you can't sequence (using the 16S sequences) them all, so finding where you plateau will give good results. Sequencing costs money & time.
+
+      Gut microbial communities are very complex, so we need to sample them deeply to understand who's there. This is why higher throughput sequencing is important. In two different studies of the same community, sampling will play a role in diffeences. Comparing studies need to have closer sampling levels. This is called rarefaction. You can lose info of the community if one study had 20 samples and another 5, but you could only rareifty the 20 sample study, to 5 to make valid comparisons.
+
+      Beta Diversity
+
+
+https://www.coursera.org/learn/microbiome/lecture/NOo6W/beta-diversity-and-visualizing-differences
