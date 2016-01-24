@@ -285,6 +285,35 @@ Assignment
       Gut microbial communities are very complex, so we need to sample them deeply to understand who's there. This is why higher throughput sequencing is important. In two different studies of the same community, sampling will play a role in diffeences. Comparing studies need to have closer sampling levels. This is called rarefaction. You can lose info of the community if one study had 20 samples and another 5, but you could only rareifty the 20 sample study, to 5 to make valid comparisons.
 
       Beta Diversity
+        This is the similarity or diversity between two samples. A lower beta diversity means that the communities are more similar and a higher beta diversity means that the two communities have little in common. Also, the phylogenetic tree accounts for diversity too.
+        Typically, the more diverse the environment the less similar two communities are.
+
+        Unifrag - Is using the phylogenetic tree as a measuring stick to, to tell how similar or dissimilar different communities are.
+
+      Visualizing differences - contingency tables are used.
+        Rows have microbe counts (features) and columns have different samples. We can use 3D plots and use math to see how close communitites are to each other, in 3D space. This works well if we have 3 rows, but more rows we can't visualize (ie 6 features or dimensions) but we can still perform the math. Square of difference of each feature over the two samples - for each 6 rows, and square-root the sum of this. Visualization is important for us to see patterns.
+
+        We can use dimensionality reduction, to try and find patterns are in the data, but reduce the number of dimensions we need to see that pattern. Use a different cordinate system, ie like a circle & express in degrees.
+
+        PCS - principal components analysis
+        PCOA - principal coordinates analysis
 
 
-https://www.coursera.org/learn/microbiome/lecture/NOo6W/beta-diversity-and-visualizing-differences
+
+We use the 16S rRNA gene to assign taxonomy to bacteria because:
+  It is highly conserved, evolving very slowly, which allows for classification of taxa in the highly diverse domain of bacteria
+
+
+What is the purpose of rarefying samples?
+  To ensure even sampling across samples and studies to make comparisons more valid
+
+Why do we need so many sequences per sample for gut microbiome research?
+    Gut microbial communities are very diverse and must be sampled deeply to be described accurately
+
+What is beta diversity?
+     A measure of the dissimilarity of microbial communities between two different samples
+
+What is dimensionality reduction?
+     Finding a new presentation of the data that captures the same patterns in the data in fewer dimensions
+
+https://www.coursera.org/learn/microbiome/home/week/4
