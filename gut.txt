@@ -13,133 +13,138 @@ Week
   - Where do we get microbes from
   - assignment
 2. Studying the Microbiome
-
+3. Making Sense Out of Microbial Data
+  - How do identify a microbe?
+  - Taxonomy
+  - Diversity of microbes in a Community.
+4. The Human Gut Microbiome and Your Health
+  -
 
 -------------------------------------------------------------------------------------------------
 
 1. Introduction to Microbes and the Human Microbiome
 -------------------------------------------------------------------------------------------------
 
-Microbes
-  - most numerous and diverse organisms on earth
-  - gut microbes == brain, in weight, about 3 pounds.
-  - effect medications, gut microbes process these in different ways
-  - can also effect if a diet will work for you, effect behaviour, health,
-  - some live in the earths crust, 7km down (Desulforudis audaxviator)
-    - http://www.bbc.com/news/science-environment-23855436  (100 million years old!)
-    - prokaryotes -  reproducing every 10K years! - the edge of defining what is life
-  - converted our early CO2 world into an O2 world
-  - help with cycle of life, decomposing organic material (carbon), helping plants to grow (nitrogen)
-  - they are the only organisms that take nitrogen and convert it to usable products for plants
-  - we only need fertilizer when we have depleted the microbes that do this job
-  - they can clean waste water, oil spills
-  - 10 orders of magnitude more microbial cells on earth than stars in the heavens.
-  - no formal definition, basically to small to be seen by the naked eye
-  - can be good, bad, & symbiotic. Finding out that if it seems symbiotic, it is probably good.
-  - single celled organisms, can be classified as
-    - bacterial - can reproduce themselves
-                - simple compared to eukaryotes
-                - love sugar as a food source, pumped into soil from plants photosynthesis
-                - dna not stored in a nucleus. Humans cells have a container inside called a nucleus.
-                - come in three shapes
-                  - bascili (rods)
-                  - cocsi (balls)
-                  - spirals    They perform different cellular functions
-                - can make us sick, or give us vitamins, hard to tell by shape
-                - mostly solitary, but can form in groups ie film in morning mouth
-    - archaea - simple compared to eukaryotes
-              - dna not stored in a nucleus.
-              - can reproduce themselves
-              - like bacteria, only can tell apart by dna
-              - can live in extreme environments (hot, cold, salty), use sulpher for food
-                - produce methane deep in a cows gut, live i
-    - eukaryotes - much more complex
-              - can reproduce themselves
-              - dna is stored in a nucleus, like humans.
-              - one major group is fungi - can be small and single celled or large & multicelled
-                - yeast is a single celled fungus, considered a microbe
-                - fingi decompose organic material, using enzymes, then absord nutrients thru cells
-                - most fungel cells are static and cannot move on their own
-              - another group called protozoa, primitive algea, amoebas, slime mould
-                - hoever, they can spread using spores, and other methods
-    - viruses - are at the border of what we consider living things
-              - made up of genetic material, dna, & rna, inside a protein coat.
-              - yhey have a nucleus
-              - completely inactive until they come in contact with a host
-              - they cannot reproduce without infecting a cell
-              - inject their material into the host, they cannot reproduce themselves
-              - much smaller than bacteria or archaea
-              - ebola, common flu, swine flu
+  Microbes
+    - most numerous and diverse organisms on earth
+    - gut microbes == brain, in weight, about 3 pounds.
+    - effect medications, gut microbes process these in different ways
+    - can also effect if a diet will work for you, effect behaviour, health,
+    - some live in the earths crust, 7km down (Desulforudis audaxviator)
+      - http://www.bbc.com/news/science-environment-23855436  (100 million years old!)
+      - prokaryotes -  reproducing every 10K years! - the edge of defining what is life
+    - converted our early CO2 world into an O2 world
+    - help with cycle of life, decomposing organic material (carbon), helping plants to grow (nitrogen)
+    - they are the only organisms that take nitrogen and convert it to usable products for plants
+    - we only need fertilizer when we have depleted the microbes that do this job
+    - they can clean waste water, oil spills
+    - 10 orders of magnitude more microbial cells on earth than stars in the heavens.
+    - no formal definition, basically to small to be seen by the naked eye
+    - can be good, bad, & symbiotic. Finding out that if it seems symbiotic, it is probably good.
+    - single celled organisms, can be classified as
+      - bacterial - can reproduce themselves
+                  - simple compared to eukaryotes
+                  - love sugar as a food source, pumped into soil from plants photosynthesis
+                  - dna not stored in a nucleus. Humans cells have a container inside called a nucleus.
+                  - come in three shapes
+                    - bascili (rods)
+                    - cocsi (balls)
+                    - spirals    They perform different cellular functions
+                  - can make us sick, or give us vitamins, hard to tell by shape
+                  - mostly solitary, but can form in groups ie film in morning mouth
+      - archaea - simple compared to eukaryotes
+                - dna not stored in a nucleus.
+                - can reproduce themselves
+                - like bacteria, only can tell apart by dna
+                - can live in extreme environments (hot, cold, salty), use sulpher for food
+                  - produce methane deep in a cows gut, live i
+      - eukaryotes - much more complex
+                - can reproduce themselves
+                - dna is stored in a nucleus, like humans.
+                - one major group is fungi - can be small and single celled or large & multicelled
+                  - yeast is a single celled fungus, considered a microbe
+                  - fingi decompose organic material, using enzymes, then absord nutrients thru cells
+                  - most fungel cells are static and cannot move on their own
+                - another group called protozoa, primitive algea, amoebas, slime mould
+                  - hoever, they can spread using spores, and other methods
+      - viruses - are at the border of what we consider living things
+                - made up of genetic material, dna, & rna, inside a protein coat.
+                - yhey have a nucleus
+                - completely inactive until they come in contact with a host
+                - they cannot reproduce without infecting a cell
+                - inject their material into the host, they cannot reproduce themselves
+                - much smaller than bacteria or archaea
+                - ebola, common flu, swine flu
 
 
-Microbiome
-  - (def) the collection of genomes of microbes in a system
-  - (def) the totality of microorganisms and their collective genetic material present in a system
-  - This effects many animals, it is very critical to health
-  - the health of amphibians is declining because of this, natural bacteria on the skin
-    - a fungal pathogen, effects the skin osmo-regulate (transferring gases and moisture)
-  - changes colour of feathers, breathe thru skin.
-  - flighted animals, gut mircobiome is critical for bone density & flight. what is microbes role?
+  Microbiome
+    - (def) the collection of genomes of microbes in a system
+    - (def) the totality of microorganisms and their collective genetic material present in a system
+    - This effects many animals, it is very critical to health
+    - the health of amphibians is declining because of this, natural bacteria on the skin
+      - a fungal pathogen, effects the skin osmo-regulate (transferring gases and moisture)
+    - changes colour of feathers, breathe thru skin.
+    - flighted animals, gut mircobiome is critical for bone density & flight. what is microbes role?
 
-  http://americangut.org/.
+    http://americangut.org/.
 
-  10 trillion human cells
-  100 trillion microbial cells
-  Therefore: Our bodies only 10% human cells
+    10 trillion human cells
+    100 trillion microbial cells
+    Therefore: Our bodies only 10% human cells
 
-  20,000 human genes
-  2-20 million microbial genes
-  Therefore: Our bodies only 0.1-1% human genes
+    20,000 human genes
+    2-20 million microbial genes
+    Therefore: Our bodies only 0.1-1% human genes
 
-  Any two people have  aboutn 99.99% same dna
-
-
-Human Microbiota
-
-  Microbiota is the collection of organismsof a particular site, habitat, or geological period.
-  The collection of trillions of mircobes living in and on the human body
-  The community of microbes residing on and in the human body (all single cell)
-    - bacteria
-    - archaea
-    - viruses
-    - microeukaryotes
-  Different parts of the body have different "climates" of microbes.
-    - forehead - high count, low diversity
-    - palm - low count, high diversity
-    - nose - innocuous bacteria keep infectious bacteria at bay
-    - mouth - most bacteria here is beneficial, lay down biofilms
-            - fascinating biogeography, very diverse
-    - gut - the mecca of microbes
-      - large vs small intestines, very different microbes
-    - most important ones help digest food
+    Any two people have  aboutn 99.99% same dna
 
 
-Where do we get microbes from
-  Different sites on the body have different biomes.
-  Four major distinct areas are
-    -oral (mouth)
-    -skin
-    -vaginal
-    -gut (fecal material)
-  People will have simiar % (cluster) of microbe types in these area
-  Babies will not have any communities but are similar everywhere
-    - if a vaginal birth, then microbes from that community
-    - c-section, microbes cluster around the skin microbe types
-      - studies about the health of babies c-sec vs vaginal
-      - antibiotic knock out many microbes, but they bounce back
+  Human Microbiota
+
+    Microbiota is the collection of organismsof a particular site, habitat, or geological period.
+    The collection of trillions of mircobes living in and on the human body
+    The community of microbes residing on and in the human body (all single cell)
+      - bacteria
+      - archaea
+      - viruses
+      - microeukaryotes
+    Different parts of the body have different "climates" of microbes.
+      - forehead - high count, low diversity
+      - palm - low count, high diversity
+      - nose - innocuous bacteria keep infectious bacteria at bay
+      - mouth - most bacteria here is beneficial, lay down biofilms
+              - fascinating biogeography, very diverse
+      - gut - the mecca of microbes
+        - large vs small intestines, very different microbes
+      - most important ones help digest food
+
+
+  Where do we get microbes from
+    Different sites on the body have different biomes.
+    Four major distinct areas are
+      -oral (mouth)
+      -skin
+      -vaginal
+      -gut (fecal material)
+    People will have simiar % (cluster) of microbe types in these area
+    Babies will not have any communities but are similar everywhere
+      - if a vaginal birth, then microbes from that community
+      - c-section, microbes cluster around the skin microbe types
+        - studies about the health of babies c-sec vs vaginal
+        - antibiotic knock out many microbes, but they bounce back
 
 
 
-Assignment
-  List three factors and explain (in three sentences or fewer for each) why you think each might affect gut microbes.
-  1. Antobiotics
-  - The killing of microbes by antibiotics means that the ones that survive will have a free reign for a while to multiply. It also allows ones that survive to have some immunity for the next round of anitbiotics. An occasional dose of antibiotics is fine as they seem to bouncs back, but repeated use cannot be a good thing.
-  2. Food
-  - The quality of food we eat will affect the microbes. A diverse and healthy diet, free of artificial processing will allow a wider range of microbes to exist. I am going to guess that raw milk, full of microbes is much more healthy than pasteurized milk where they are sterilzed.
-  3. Environment
-  - An environment constantly cleansed of microbes by constantly killing them will limit the variety of microbes that we have. I am guessing that the wider the variety the better it is for us.
+  Assignment
+    List three factors and explain (in three sentences or fewer for each) why you think each might affect gut microbes.
+    1. Antobiotics
+    - The killing of microbes by antibiotics means that the ones that survive will have a free reign for a while to multiply. It also allows ones that survive to have some immunity for the next round of anitbiotics. An occasional dose of antibiotics is fine as they seem to bouncs back, but repeated use cannot be a good thing.
+    2. Food
+    - The quality of food we eat will affect the microbes. A diverse and healthy diet, free of artificial processing will allow a wider range of microbes to exist. I am going to guess that raw milk, full of microbes is much more healthy than pasteurized milk where they are sterilzed.
+    3. Environment
+    - An environment constantly cleansed of microbes by constantly killing them will limit the variety of microbes that we have. I am guessing that the wider the variety the better it is for us.
 
---------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 2. Studying the Microbiome
 
@@ -253,8 +258,7 @@ Assignment
           The last set of molecules include intermediates and end products of metabolism as well as hormones, signaling molecules, sugars, and lipids. The study of these is called metabolomics. v\We learn valuable insights into the products of microbial action & gut digestion. These provide insights into the human gut microbiome important diseases such as cystic fibrosis. Also host - microbe interaction.
 
 
-
---------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 3. Making Sense Out of Microbial Data
 
@@ -299,21 +303,65 @@ Assignment
         PCOA - principal coordinates analysis
 
 
+-------------------------------------------------------------------------------------------------
+4. The Human Gut Microbiome and Your Health
 
-We use the 16S rRNA gene to assign taxonomy to bacteria because:
-  It is highly conserved, evolving very slowly, which allows for classification of taxa in the highly diverse domain of bacteria
+  The main factors that change the micorbiota.
+      - age, diet, antibiotics, genetics, and physiology.
+      - a colder gut influences the microbiota that we have.
+      - eating protein vs carbs makes a difference
+      - We all start with a sterile gut, and accumulate microbes during & after birth.
+      - It can change from one day to another, depending who we come in contact with
+      - When we are adults the microbial communites are quite complex.
+      - In old age we lose some microbial community from day-day and week-week.
+      - Diet, both short term and long term will change the gut.
+      - Long term - over a year.
+        - Carbohydrates - pasta, potatoes, and sugars - have a lot of prevotella bacteria
+        - Protein - meat - people have bacteroides bacteria
+      - short term diet changes do have an effect
+        - mostly meat eater vs vegan showed a big swing
+        - meat eaters picked up lots of hemophela, which is associated with cardiovascual problems.
+        - still in infancy, so still learning, bu holds promise for future
 
+    Antibiotics stop bacteria from doing things, which is not good. But they can pick up resistance. They target all bacteria, both good and bad. People will recover at different rates, even after a year there is still some effect. Some can recover in a few weeks.
 
-What is the purpose of rarefying samples?
-  To ensure even sampling across samples and studies to make comparisons more valid
+    Probiotics are also popular and can help. They are live microorganisms that benefit health when they're administered in sufficient quantities. Sometimes they are a single strain, and sometimes they are fungal microbes(?)  Not only can they help alleviate some gastrointestinal problems they also appear to be able to help against obesity or mood disorders. But we can't say definitively.
 
-Why do we need so many sequences per sample for gut microbiome research?
-    Gut microbial communities are very diverse and must be sampled deeply to be described accurately
+    Genetics versus the environment. There is mixed results on how out genes effect microbes. There are some ways of testing, but they can be potentially be unethical. It has been shown that some genes can change the relative abundance of specific kinds of bacteria in the gut. One example is lactobacillus - some people can process dairy better than others.
 
-What is beta diversity?
-     A measure of the dissimilarity of microbial communities between two different samples
+    The last major factor influencing the gut microbiota is our physiology. This refers to factors like hormone levels, immune system function, metabolism, et cetera.
 
-What is dimensionality reduction?
-     Finding a new presentation of the data that captures the same patterns in the data in fewer dimensions
+  Obesity & Gut Microbiota
+    The food we consume effect the microbiome. Leptin deficient mice cannot process when they have eaten enough. Consequently they get very fat. There are phylum level changes in the microbial communities. There is a increase in firmicutes and a decreased representation of bacteroidetes. So what were these microbes doing? Microbes have an ability to digest molecules in our food that our own human bodies cannot.
+
+    Microbes contain genes that produce enzymes to digest these components, such as complex polysaccharides, where as humans do not possess those genes in our own genome. Researchers found that the microbes in an obese community were able to extract significantly more energy then microbes in a lean community. The obese community mocrobes were enriched with genes related to energy harvesting, especially from carbohydrates and lipids. However, this does not show causation.
+
+    Scientists use gnotobiotic mice, mice that are sterile, raised inspecial bacteria free chambers. Scientists can colonize these mice with new microbes. They put microbes from the lean mice in one set and the microbes from the obese mice in another and feed them the same amount. The mice with lean microbes were lean and the ones given obese microbes were obese. So the microbes were better at extracting energy from the food in the obese mice case.
+
+    Our body's immune system has receptors that help it recognize bacteria. Like the toll-like receptor 5 or TLR5 for short. It also appears that the genetic richness of our microbiome will have an effect on obesity. Lean individuals have microbes that have more genes. Lean microbial communities had a decrease in the number of butyrate producing bacteria, an increased ability to degrade the lining inside the gastrointestinal tract, reduced hydrogen and methane production, increased Campylobacter Shigella abundances, and an increased potential to manage oxidative stress.
+
 
 https://www.coursera.org/learn/microbiome/home/week/4
+https://www.coursera.org/learn/microbiome/lecture/aM6Qn/human-microbiome-and-gut-disease
+
+
+
+-------------------------------------------------------------------------------------------------
+
+  We use the 16S rRNA gene to assign taxonomy to bacteria because:
+    It is highly conserved, evolving very slowly, which allows for classification of taxa in the highly diverse domain of bacteria
+
+
+  What is the purpose of rarefying samples?
+    To ensure even sampling across samples and studies to make comparisons more valid
+
+  Why do we need so many sequences per sample for gut microbiome research?
+      Gut microbial communities are very diverse and must be sampled deeply to be described accurately
+
+  What is beta diversity?
+       A measure of the dissimilarity of microbial communities between two different samples
+
+  What is dimensionality reduction?
+       Finding a new presentation of the data that captures the same patterns in the data in fewer dimensions
+
+
