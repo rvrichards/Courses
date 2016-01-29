@@ -307,21 +307,21 @@ Week
 4. The Human Gut Microbiome and Your Health
 
   The main factors that change the micorbiota.
-      - age, diet, antibiotics, genetics, and physiology.
-      - a colder gut influences the microbiota that we have.
-      - eating protein vs carbs makes a difference
-      - We all start with a sterile gut, and accumulate microbes during & after birth.
-      - It can change from one day to another, depending who we come in contact with
-      - When we are adults the microbial communites are quite complex.
-      - In old age we lose some microbial community from day-day and week-week.
-      - Diet, both short term and long term will change the gut.
-      - Long term - over a year.
-        - Carbohydrates - pasta, potatoes, and sugars - have a lot of prevotella bacteria
-        - Protein - meat - people have bacteroides bacteria
-      - short term diet changes do have an effect
-        - mostly meat eater vs vegan showed a big swing
-        - meat eaters picked up lots of hemophela, which is associated with cardiovascual problems.
-        - still in infancy, so still learning, bu holds promise for future
+    - age, diet, antibiotics, genetics, and physiology.
+    - a colder gut influences the microbiota that we have.
+    - eating protein vs carbs makes a difference
+    - We all start with a sterile gut, and accumulate microbes during & after birth.
+    - It can change from one day to another, depending who we come in contact with
+    - When we are adults the microbial communites are quite complex.
+    - In old age we lose some microbial community from day-day and week-week.
+    - Diet, both short term and long term will change the gut.
+    - Long term - over a year.
+      - Carbohydrates - pasta, potatoes, and sugars - have a lot of prevotella bacteria
+      - Protein - meat - people have bacteroides bacteria
+    - short term diet changes do have an effect
+      - mostly meat eater vs vegan showed a big swing
+      - meat eaters picked up lots of hemophela, which is associated with cardiovascual problems.
+      - still in infancy, so still learning, bu holds promise for future
 
     Antibiotics stop bacteria from doing things, which is not good. But they can pick up resistance. They target all bacteria, both good and bad. People will recover at different rates, even after a year there is still some effect. Some can recover in a few weeks.
 
@@ -339,6 +339,17 @@ Week
     Scientists use gnotobiotic mice, mice that are sterile, raised inspecial bacteria free chambers. Scientists can colonize these mice with new microbes. They put microbes from the lean mice in one set and the microbes from the obese mice in another and feed them the same amount. The mice with lean microbes were lean and the ones given obese microbes were obese. So the microbes were better at extracting energy from the food in the obese mice case.
 
     Our body's immune system has receptors that help it recognize bacteria. Like the toll-like receptor 5 or TLR5 for short. It also appears that the genetic richness of our microbiome will have an effect on obesity. Lean individuals have microbes that have more genes. Lean microbial communities had a decrease in the number of butyrate producing bacteria, an increased ability to degrade the lining inside the gastrointestinal tract, reduced hydrogen and methane production, increased Campylobacter Shigella abundances, and an increased potential to manage oxidative stress.
+
+  Microbial disabliers
+    Most microbes are good or harmless, but some are not. Because so many are good, we remain healthy, a state called Homeostasis. When you get sick, more bad ones called pathogens will emerge. This state is called dysbiosis. The immune system responds with such things are inflammation. Our gut microbe diversity decreases. People with chronic diseases also have less microbe diversity.
+
+    The two most common types of IBD, or inflammatory bowel disease disease are Chron's Disease and Ulcerative Colitis. With IBD parts of the small intestine, or parts of the colon are chronically inflamed. The microbe communities are different, and different again from healthy people. The two IBDs have microbes that are performing different tasks. Antobiotics in Chrons patients actually lead to more extreme dysbosis. In colon cancer patients, Fusobacterium nucleatum (an anaerobe it thrives with little to no oxygen) is found in elevated levels, much higher then that of healthy people. Interesting is that it is frequently in the mouth of healthy people where it's a normal constituent of the oral microbiota. It is also seen mostly in carnivores, like dogs in much higher levels than humans. We are not sure if it is a cause or an effect. There are also other microbes that seem to blossom in the presence of colon cancer. Much to learn, all we can say now, is that when the microbe community is not diverse, it is not healthy.
+
+    Fecal transplants have been wildly successful for curing people with infections of Clostridium difficile. It usually kills about 14,000 people a year. Ongoing research is showing that antibiotics can do serious damage to the microbiome and should only be taken if necessary.
+
+    Oxalobacter - a microbe that is dissappearing in Western cultures. It eats oxalate, which is how kidney stones get started. There is a corresponding rise in kidney stones in the US. Modernity starting from chlorinated water, and antibacterial substances and fluids and antibiotic widespread use of antibiotics in our society are probably the reason for the demise of Oxalobacter in the USA.
+
+    The human food project - Jeff Leach. (http://humanfoodproject.com/)  Help the public better understand health. Field work to see the microbiome of indigeneous populations. He is at a hunter gather community the Hadzabe, one of the last in the world. They have been doing this for 1000s of years. They have a very fibre diet. They are not walled off in buildings & modernity. He has changed his diet, and the microbe responds quite rapidly.
 
 
 https://www.coursera.org/learn/microbiome/home/week/4
