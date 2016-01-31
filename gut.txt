@@ -23,7 +23,6 @@ Week
 -------------------------------------------------------------------------------------------------
 
 1. Introduction to Microbes and the Human Microbiome
--------------------------------------------------------------------------------------------------
 
   Microbes
     - most numerous and diverse organisms on earth
@@ -302,8 +301,26 @@ Week
         PCS - principal components analysis
         PCOA - principal coordinates analysis
 
+  Question/Answers
+    We use the 16S rRNA gene to assign taxonomy to bacteria because:
+      It is highly conserved, evolving very slowly, which allows for classification of taxa in the highly diverse domain of bacteria
+
+
+    What is the purpose of rarefying samples?
+      To ensure even sampling across samples and studies to make comparisons more valid
+
+    Why do we need so many sequences per sample for gut microbiome research?
+        Gut microbial communities are very diverse and must be sampled deeply to be described accurately
+
+    What is beta diversity?
+         A measure of the dissimilarity of microbial communities between two different samples
+
+    What is dimensionality reduction?
+         Finding a new presentation of the data that captures the same patterns in the data in fewer dimensions
+
 
 -------------------------------------------------------------------------------------------------
+
 4. The Human Gut Microbiome and Your Health
 
   The main factors that change the micorbiota.
@@ -351,29 +368,35 @@ Week
 
     The human food project - Jeff Leach. (http://humanfoodproject.com/)  Help the public better understand health. Field work to see the microbiome of indigeneous populations. He is at a hunter gather community the Hadzabe, one of the last in the world. They have been doing this for 1000s of years. They have a very fibre diet. They are not walled off in buildings & modernity. He has changed his diet, and the microbe responds quite rapidly.
 
-    Missing Microbes: How the Overuse of Antibiotics Is Fueling Our Modern Plagues
+  Missing Microbes: How the Overuse of Antibiotics Is Fueling Our Modern Plagues
+    The microbiome is quite different in USA as opposed to ancient microbiome and different parts of the world. How can we get them back to beinh healthy? There is a natural trajectory and one that is changed after antibiotics, or a vaginal vs cesarian section. We can get off of these tracks, be on an altered trajectory. One method is fecal transplants, another is probiotics, and even a fibre diet that encourage good bacteria to flourish. There are opportunistic microbes that thrive after antibiotic use. It used to be a last resort, now its the first line for Clostridium difficile infections. Very successful.
 
-https://www.coursera.org/learn/microbiome/home/week/4
-https://www.coursera.org/learn/microbiome/lecture/tZ6Bx/manipulating-the-microbiome-through-fecal-transplants
+  Question/Answers
+    True or False? People living Westernized lifestyles (e.g. in the U.S.) have gut microbiomes that are very different from people living more traditional lifestyles (e.g. rural agrarian)
+      true
 
+    True or False? A fecal transplant can be considered a type of probiotic
+     true
 
+    Which of the following is a true statement about the effect of antibiotics on the gut microbiota?
+    Antibiotics alter the gut microbial community differently depending on the person
+
+    Disease is often associated with:
+    Reduced gut microbial diversity
+
+    Fusobacterium has been linked with colon cancer because:
+    It is found in high abundances near tumors in the colon
+
+    The gut microbiota of the elderly is characterized by:
+    High diversity and low stability
+
+    How do antibiotics affect weight?
+    Babies treated with antibiotics within the first six months of life end up weighing more
+
+    What happens when we put gut microbes from an obese human into germ-free mice?
+    The mice gain weight
 
 -------------------------------------------------------------------------------------------------
 
-  We use the 16S rRNA gene to assign taxonomy to bacteria because:
-    It is highly conserved, evolving very slowly, which allows for classification of taxa in the highly diverse domain of bacteria
-
-
-  What is the purpose of rarefying samples?
-    To ensure even sampling across samples and studies to make comparisons more valid
-
-  Why do we need so many sequences per sample for gut microbiome research?
-      Gut microbial communities are very diverse and must be sampled deeply to be described accurately
-
-  What is beta diversity?
-       A measure of the dissimilarity of microbial communities between two different samples
-
-  What is dimensionality reduction?
-       Finding a new presentation of the data that captures the same patterns in the data in fewer dimensions
 
 
