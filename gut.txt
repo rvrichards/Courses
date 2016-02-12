@@ -398,5 +398,98 @@ Week
 
 -------------------------------------------------------------------------------------------------
 
+5. Gut Microbe-Host Interactions: Beyond Nutrition
+
+  Gut microbiota interactions with the immune system
+    It appears that the gut microbiota may be critical for our immune system to function correctly. The immune system is composed of two main parts. The innate immune system and the adaptive immune system.
+
+    The innate immune system is non specific, it defends against all pathogens the same way no matter what they are. The innate immune system is made up of physical barriers like our skin, as well as chemicals in the blood that react against anything deemed foreign.
+
+    The adaptive immune system is specific. It tests cells to determine if they are foreign or not and mounts a defense against whatever specific type of pathogen it encounters. Cells called helper T-cells perform this task by testing and sending chemical signals called cytokines to tell the immune system how to respond.  It also has a memory so once in contact with a pathogen, it remembers and can react against it quickly. Vaccines work by presenting deactivated forms of common pathogens so when the real thing comes along, its got an edge.
+
+    Cytokines are a broad category of small proteins that are important in cell signaling. They are released by cells and affect the behavior of other cells. They are often studied in any immune system research. They are sensed and produced by neurons.
+
+    Within adaptive systems, there are humoral immune responses and cell-mediated responses. Cytokines modulate the balance between humoral and cell-based immune responses
+
+  Auto-immune & Gut microbiota
+    Humoral immunity targets pathogens found outside of our human cells. For example, in our blood it looks for bacteria, fungus and worms. Humoral immunity involves B cells, which tag pathogenic cells as invaders. This is where the term antibody comes from. Antobodies are Y shaped proteins, and every different antibody recognizes a specific foreign antigen. Cells called helper T Cells help recognize projections on pathogen cell walls called antigens and direct B-cells to create other proteins, antibodies, that latch onto the antigens and identify the pathogen. This tags pathogens for other immune cells to destroy them.
+
+    Cell-mediated immunity in contrast to humoral immunity, targets pathogens that are found inside of ourselves. These are things like viruses. Cells with pathogens inside of them send signals. As part of cell-mediated immunity colored T cells recognize these cells and incite infected cells to self destruct.
+
+    The gut microbiota interacts constantly with the adaptive immune system. Our immune system has to know that some gut microbes although foresign are not pathogenic. It does this by testing the produces the secretion of antibodies, called immunoglobulin or IGA. These antibodies are specific to certain strains of microbes and are used by B cells to tag pathogenic invaders. So it protects the good microbiota by the type of antibodies the immune system generates. Also, the gut microbes also incite the immune system to create IGA antibodies. Immune cells in the intestinal wall are constantly monitoring the gut microbes.
+
+    Germ-free animals and newborns have far fewer cells that create antibodies, so it appears that the gut microbiota actually stimulates the immune system. In fact beneficial gut microbes produce chemicals that attack pathogens, and some beneficial gut microbes incite T cells to react to pathogens.
+
+    Use of antibiotics reduce the effectiveness of the immune system in future attacks. Basically if you're too clean your immune system doesn't get trained correctly and it overreacts to non pathogenic foreign cells.
+
+    But gut microbes can also do damage. There is a mucus layer in the intestine that keeps microbes out and the immune cells in the intestinal wall are constantly monitoring the gut microbes. But if one gets past all that, it is now a problem and becomes an infection. The immune system kicks in, specifically the innate immune system attacks anything that crosses into the body from the gut. The adaptive immune system will target specific bacteria with antibodies to kill them. This can happen if our intestine becomes inflammed from food we eat and microbes leak through.
+
+    Think about how complex this all is. Like knowing what gut microbes are good, but when they cross into the body, they are now an enemy.
 
 
+  Gut microbiota, autoimmune diseases, and allergies
+    Gut microbes affect auto-immune diseases, which is when the immune system mistakes healthy tissue cells or organs as foreign. This includes Celiacs disease, Crohn's disease, Lupus, Multiple sclerosis, Rheumatoid arthritis, and Type 1 Diabetes. Microbial factors into this complex situation.
+
+    People with Crohn's disease have very different gut microbes, typically lots of E.Coli and related microbes. It is believed that it is the process by which Chrons develops. It often occurs more often in woman. Estrogen is believe to be a key in this.
+
+    Studies appear to show that microbes can regulate the development of autoimmune disease. One such was supplanting adult male mice fecal microbes into young female mice and the auto-immune diseases were significantly lower than in the normal young female mouse.
+
+    When bacteria from another mouse or another organism such as a human are transferred to germ free mice, these mice are called gnotobiatic mice. This is an important tool is studying these microbe immune system response.
+
+    Food allergies are inappropriate immune responses to food particles that are mediated by an antibody called immunoglobulin E, or by T cells. The most common food allergies are milk, peanut, egg, tree nut, soy, fish, wheat, and shellfish allergies. But why?
+
+    Research shows that early exposure to bacteria in pet dander, dirt, and other environmental particles reduces a child's chances of developing skin and respiratory allergies. This is because microbes play an important role in the immune system response.
+
+    Food allergies are associated with a specific gut microbe signature. This is a complex arrangement.
+
+  Immune & Nervous System & Microbes
+    The immune system and the nervous system have many similarities, amoung them that they learn from their environment. We know that microbes interact with the immune system and it seems that they also affect the nervous system. Autism Spectrum Disorder research seems to show this to be true.
+
+    70% of your peripheral neurons go through the gut. That means 30% of your neurons cover taste, touch, pain, heartbeat, and breathing. Amazing. So the gut microbes do have access to the brain! The enteric nervous system is what monitors the gut, which has direct access to the central nervous system, the brain and spinal chord.
+
+    Mice raised in germ free environments have underdeveloped tissues architecture, even into adulthood, such things as the spleen are underdeveloped. Its a two way street between microbes and the nervous system. This means therapies may involve gut microbes in Autism Spectrum Disorder cases.
+
+    One study of a particular molecule called polysaccharide A (PSA) which is produced by bacteris flagellus which is a common human gut bacteria. Turns out this is required for a good functioning immune system. It interacts with an immune cell called a regulatory T-cell. These cells are pro inflammatory in nature and PSA are very specific in interacting with a subset of T-cells.
+
+    When we get cut, the adaptive immune system is trying to fight off microbes, and it causes damage to good cells because it can't distinguish between a microbial cell and our own cells. Its a war, think of collateral damage.
+
+    Concerning allergies, if the immune system becomes activated in the absense of infection (T-cell action), tissue damage is done that results in us seeing the symptoms associated with these diseases (multiple sclerosis and lupus and type 1 diabetes). Now the anti-inflammatory arm of the T-cell kicks in.
+
+    The main hypothesis for the reason why people don't have MS is that we have a good balance between the pro-inflammatory cells (T-cell#1) that cause tissue damage. The anti-inflammatory cells (T-cell#2) which are the brake on the immune system, which prevent uncontrolled inflammation, there is a defect. This brake not working is the problem. PSA is involved with this brake, and this presents exciting new therapies in the fight of auto-immune diseases. Again, there are microbial molecules which activate beneficial arms of the immune system.
+
+    Germ free mice have more T-cell#2 vs T-cell#1, whereas a healthy balance is an equal number ot #1 and #2 T-cells.
+
+    If we can now harness PSA activity, we can boost the regulatory T-cell response, we can boost the anti-inflammatory response, which is missing in patients with allergies and autoimmunity
+
+  Auto-immune & HIV
+    HIV patients have chronic inflammation or an activated state in the gut. This is the pro-inflammation part of the T-cell. HIV patients also have quite a different gut microbial community throughtout all the regions of the gut, then on average. Even with therapies, their microbes are not returning. Specifically the microbes that produce the anti-inflammatory reaction are not there.
+
+    It appears that the cells that HIV targets, compromise these T-cells and the microbes seem to rely on them being there, and when they are not there (ie compromised) these microbes seem to die off and are not present. They seem to depend on each other. Current research is to confirm this & why. This is not a passive relationship!
+
+    Autism Spectrum Disorder is much harder to understand than HIV, because of the word spectrum. There is current research to see in these patients with gastro problems also, if a fecal translpant therapy will effect behaviour. Amazing.
+
+  The Gut-Brain Axis
+    There is a 2 way communication between the brain and the gut. These paths include Immune system, Endocrine function, and Neural pathways.
+
+    1. Immune cells in the gut sense bacteria in the Lumen which influence the auto-immune to make T-cells produce cytokines. Cytokines levels can lead to changes in the brain.
+    2. Also gut microbes can activate cells in the intestinal walls that produce peptides (short immuno acid chains). These can actually activate nerve endings.
+    3. Finally, microbes can send direct messages by producing neurotransmitters. In other words they're signaling the molecules that your nervous system uses.
+
+    Microbes can make chemicals that allow them to speak the brain's language. 90% of serotonin is in the gut, 10% is in your brain.
+
+    Under stress, your brain will release corticosteroids which affect gut immune cells. This can cause microbes to leak into your bloodstream and effect the whole body.
+
+    Microbes can also change behaviour, studies show the the gut microbes change eating behaviour, creating very obese mice. Giving mice antibiotice or probiotics make them less aggressive.
+
+    The same was seen in fruit flies. A diet of sweet vs starch showed that the flies preferred to mate only with similar eating flies. The only difference? Bacteria in the fly and the food!
+
+    Children with autism spectrum disorder (ADS) preliminary evidence that children may have different microbes in the gut than the their brothers and sisters. There is a relationship, but the causality is unclear. Autism is often accompanied by gut problems.
+
+    Germ free mice do poorly under stress then do mice with normal gut microbiota.
+
+    Depression is linked to the immune system. Microbes can influence and regulate immune responses, the microbiome may be a source of therapy.
+
+    People taking probiotics with lactobacillus and bifidobacterium (beneficial bacteria in large amounts in infants) showed the substantial reductions in anxiety symptoms.
+
+
+-------------------------------------------------------------------------------------------------
