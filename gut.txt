@@ -18,7 +18,10 @@ Week
   - Taxonomy
   - Diversity of microbes in a Community.
 4. The Human Gut Microbiome and Your Health
-  -
+  - Main factors that change the micorbiota
+  - Obesity & Gut Microbiota
+  - Microbial disabliers
+5.
 
 -------------------------------------------------------------------------------------------------
 
@@ -490,6 +493,85 @@ Week
     Depression is linked to the immune system. Microbes can influence and regulate immune responses, the microbiome may be a source of therapy.
 
     People taking probiotics with lactobacillus and bifidobacterium (beneficial bacteria in large amounts in infants) showed the substantial reductions in anxiety symptoms.
+
+  Post mortem Human biome
+    Stages: fresh, bloating, followed by a rupture event that leads to active decay, advanced decay, and finally dry remains. This is useful for establishing time of death. Tools used include, body temperature, blood pool, and forensic entomology, which is using bugs! The life stage of blowfly larve can be used because we know the times.
+
+  Machine Learning
+    Use ML to learn about the post-mortem process. One thing to learn - do soils matter in the decomposition of bodies? We found out that would be a No. This is useful for forensic science.
+
+  Forensic entomology
+    The use of insects in determining post morten science. Age of maggots can be used. Stage of larve, stage of community of different insects. As body dries (stages of decomposition), a shift in what is found on the cadaver.
+
+    They respond rapidly to disturbance, like death! This can really help with forensic science.
+
+  Quiz
+    Why do scientists use mouse models in experiments?
+      They allow us to control for genetics and other factors that are difficult to control for in humans and permit experimental replication
+
+    After death, microbes change in a succession-like or clock-like manner.
+      True
+
+    Leaky gut refers to:
+      Bacteria passing across the gut epithelial membrane
+
+    Which of these is not true? Germ-free mice have:
+      Similar immune activity to normal mice
+      x-Fewer immune cells
+      x-Reduced immune activity
+      x-Increased rates of infection
+
+    4.True or false? Altering the gut microbiota of mice can affect their level of aggression as well as depression
+      True
+
+    What is a difficulty with gut microbiome research and autism?
+      Autism is associated with GI tract issues, and it’s hard to find controls that have the same GI tract issues but are neurotypical
+
+    What is one hypothesis for why Pakistani children have fewer food allergies than Swedish children?
+      They are colonized by gut microbes more quickly after birth
+
+    Which hormone has been linked to the development of diabetes in mice via interactions with the gut microbiome?
+      Testosterone
+
+-------------------------------------------------------------------------------------------------
+
+6. What's in the American Gut
+
+  American Gut
+    There have been IndieGogo, KickStarter and other crowdfunding projects are becomming more common.
+    Big Data - there is many different approaches and definitions. It is important to understand the mechanism not just reading code or finding the frequency of a particular mutation. It will be important to understand not just one discipline, but many. Like biology, comp sci, or physics. Collaborative interdisciplinary research is what it will take.
+
+    Initially, there will be cataloging, but at some point we'll have to drill down and understand mechanism. There is metabolomics, where you can actually identify which small molecules are being produced by certain bacteria. Understanding the connectivity where one bacterium makes a second species of bacterium prroduce some result. Maybe its a single bacteria to remove or add, or a whole community, we have so much to learn. We just don't know yet, its only research now that we'll get to know.
+
+    American Gut - collecting Samples
+      ipython.org
+      americangut.org
+
+    Quiz
+      What are the major trends we see in the human microbiome?
+      - Different body sites generally host different communities of microbes (e.g. the gut has more Firmicutes than the skin on average)
+
+      False: Metadata (e.g. information about age, diet, BMI) is not very important for studying the human microbiome
+
+      What is a major issue with even well-funded gut microbiome projects to date?
+      - They use limited populations that don’t well-represent an “average person”
+
+      Who funds the American Gut Project?
+      - Participants, via crowd-funding
+
+      Why does it take so long to process skin samples donated to the American Gut Project?
+      - We have to wait for enough people to donate samples so that we can fill a whole DNA extraction plate
+
+      Which of these is NOT a factor that would slow your sample analysis for the American Gut Project
+      - You did not answer all the questions in the survey
+
+      What is the difference between your most abundant and your most enriched microbes?
+      - Abundant microbes are the ones you have the most of while enriched microbes are the ones you have more of compared to an average person
+
+      True:  Samples collected for the American Gut Project generally match up with samples collected for the Human Microbiome Project at each body site
+
+
+
 
 
 -------------------------------------------------------------------------------------------------
