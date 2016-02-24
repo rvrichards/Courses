@@ -572,6 +572,64 @@ Week
 
 
 
-
-
 -------------------------------------------------------------------------------------------------
+
+
+Robs Microbiome Observations and Proposed Microbiome Study
+February 23, 2016
+
+Question 1:
+  In this module's lectures, we heard from Jeff Leach and Michael Pollan and examined their American Gut Project results. We've also provided an example food log and AGP results for Jessica. Based on what you heard about Jeff's and Michael's diets, and looking at Jessica's food log, whose diet is most similar to yours? Depending on who you picked, describe how your diet is different from either Jeff, Michael, or Jessica. For example, do you eat more meat or less meat? Limit your response to five sentences.
+
+  My diet is more similar to Michael & Jessicas.  I did not find what % of the different foods Michael had, I suppose that our diets are close. Particularly veggies and lower meat consumption.
+  Although our diets are similar there are a few differences. The major difference is grains. Although I do think they are important, currently my numbers are much lower than theirs. My dairy is also lower and I make up the difference, at least with Jessica, that I consume more fruit and nuts. I am on the fence with dairy, and if it wasn't for addictive cheese and my current location in France, those numbers would be lower. I also find it interesting that even though we all consume lots of veggies, that my consumption is higher then Jessicas and probably Michaels. The reason is that typically veggies are not processed by industry and that makes me happier. Besides, I like to shake the hand of the farmer that produces my food, much like Michael.
+
+
+Question 2:
+  Based on your response, predict what kinds of microbes you would expect to see in high or low abundance in your own sample if you were to send it in and why. (If you've already had a sample analyzed, explain how similar your results are to the person with a similar diet and why you think that is.) Please use AGP results from Jeff, Michael, and Jessica as well as AGP results discussed in Jessica's Week 6 lecture. Limit your response to ten sentences.
+
+  I would expect to see these in the top 4 of abundance of microbes in my gut.
+  Genus Bacteroides - all three AGP samples had these in the top 4 microbes
+  Family Lachnospiracaea - again all 3 people had this in the top 4 abundant microbes
+  Ruminococcaceae - like the above, they are in all AGP samples
+  I expect these because my diets is similar to Jessicas and Michaels.
+  Of interest is that the AGP results for enriched microbes for all three people are different! So it would only be a wild guess for what I would have.
+
+
+Question 3:
+  Think about all of the studies we discussed during the course. Pick one other factor you have not discussed in previous answers that is associated with your diet, lifestyle, or health and predict how it affects your gut microbes (e.g., an all meat and cheese diet leads to increased Bilophila) in three sentences.
+
+  I have specifically not looked for "probiotics" in any of my dairy products. I would be curious to see how much of an effect this would have. The course also mentioned fermentation, which made me wonder about kim chi, that I use to consume a lot of when I lived in Hawaii. Both of there, probiotics & fermented food were mentioned in the context of increasing gut diversity and therefore are a positive approach to food consumption.
+
+
+Question 4:
+  Jeff Leach talks about diet interventions to change his gut microbiota. If you could change any factor associated with your diet, lifestyle, or health, what would it be and how would you predict it would affect your gut microbes (e.g., stop taking antibiotics, eat more types of vegetables to increase gut microbial diversity)? Limit your responses to three sentences. Feel free to use examples from the lectures or to find additional information from studies online. If you use an outside source, please cite that source at the end of your response.
+
+  I am quite happy with my diet, but there is something that I would like to try, as mentioned in question #3. I would like to consume more probiotics and fermented food. What I have read is that it will increase diversity of the gut microbes, and that is what will make for a healthier life.
+  (http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2672.2006.02963.x/full)
+
+
+Question 5:
+  Based on what you've learned about the gut microbiota and gut microbiome research, describe an idea for a new study. Be sure to include an introduction, a methods section, and a significance section:
+
+  Introduction
+    - Explain what is already known about the gut microbiome topic you're interested in and what new question you think needs to be answered in no more than four sentences. In another sentence, explain your hypothesis (i.e., Based on what you know about microbes, what do you think is the answer to the question?).
+
+  Methods
+    - In five sentences, describe how you would design this study. Describe your subjects (e.g. people or animals, how many, what age and sex, diet, healthy or diseased or both). How long would the study last? What kinds of data would you get from samples/subjects (e.g. 16S, metagenomics, metabolomics, health measures, etc.)?
+
+  Significance
+    - Tell us why this experiment should be done in five sentences or fewer. What would it add to our knowledge about the microbiome, health, etc.? Who would benefit?
+
+  1. Introduction
+    From what I understand, the gut microbes are very flexible and respond quickly to diet changes. I am interested to see how diet changes affect the microbiome and how quickly they can recover. I want to see how quickly the gut recovers and at the end, if they are better off (diversity wise) then when they started.
+
+  2. Methods
+    I would propose to have test subjects have six different diets, each lasting one month.
+    The diets would not be dangerous (ala McDonalds-only consumption) but cover different aspects of diets. I would consider and consult with peers on which diets. First guesses: vegan, fermented foods focus, processed foods, grain-focused, protein-focus, balanced, uncooked focus, and I would let my generous sponsor pick one.
+    Initial test would gather AGP-style sample, other physical data, and emotional data. I would consult with other professionals for a good set of data points for these diverse physical vs emotional (state-of-mind) requirements.
+    There would be a testing of the microbiome (AGP-style) every couple of days to see the effects.
+    Because of budgetary constraints, I would pick a narrow group of individuals, similar age, health, and lifestyles. Male & female. If funds were sufficient I would select a second group quite different from the first.
+
+  3. Significance
+    I believe that this science is still in its infancy, where we are still cataloging information. The focus of this experiment is on the community as a whole, not the individual mechanisms of microbes. I believe this test would give insights into how fluid or quickly changed the microbiome is. I believe that we'd get a feel for who the microbiome reacts, how quickly it changes, and how long beneficial microbes hang around in "bad" diets. For the average person, knowing they have control over their microbiome, for the researcher, to expand on things learned, maybe the need for a wider group or a different diet. For food companies, to be aware of what would be better food products.
