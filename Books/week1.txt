@@ -1,0 +1,74 @@
+Week 1
+------
+
+Blockbooks - where books are printed by carving one page into a block & printed. These were first seen around 1450 and included both text and pictures. It shows that innovations in the book trade were starting to happen. This technique was more useful for smaller texts like childrens grammar books and devotional (small) books.
+
+Movable type - this was Johannes Gutenberg's invention. It was the creation of individual letters & characters that could be reused. This was in Mainz Germany.
+
+Incunables - books printed before 1501.
+
+An "Archbishop’s War" in Mainz Germany made many printers leave the area and spread the knowledge of printer much quicker. Nicolas Jenson was one such person, he moved to Venice and the 1478 Latin edition of Plutarch’s Lives has his printing, considerede to be one of the more beautiful printings of the day. He made the beautiful roman font and also went into making gothic fonts for legal & theological markets.
+
+The Agostini Plutarch is a famous work, printed by Jenson. Agostini was a wealthy Venetian banking family. The illumination was done by the Master of the London Pliny. Although illumination could be fully printed, at the start is had space left for futher customization (like a fmaily crest) which actually increased the need for illuminators at the start.  The book was printed on both parchment & paper. The paper copy would have much less illumination.
+
+
+
+Book Making
+-----------
+There are many people involved in making a book
+	- papermaker - mostly cotton & hemp
+	- type caster - tin, lead, & antimony, heated and poured in a mould & then cooled.
+	- printer's workshop 
+		- fold paper once = folio (2 leaves, 4 pages)
+		- fold twice = quarto (4 leaves, 8 pages)
+		- told thrice = octavo (8 leaves, 16 pages)
+	- bindery - put the book into a textblock, case in
+		-leaves gathered into sections known as quires (4 sheets = 8 leaves or 16 pages)
+
+Type, what is it? Gutenberg invented "moveable type". First think of a character or symbol. Like an "a" or a "@". A collection of these "abc...ABC...123...!@#..." is called a font. A typeface is a collection fonts of a similar design. Typeface or type are used the same.
+
+In the 15th century there are two typefaces: gothic (blackletter) & roman.	The gothic font used by Gutenberg in the "42-line Bible Gutenberg" simulated the actual handwriting of the time. Gutenberg made many different bibles. The content of the book determined the font to be used. 
+
+A gothic font called "textura" was mainly for bibles, "rotunda" for scholarly & latin texts, and "bastarda" for common language (vernacular).
+
+Roman typefaces were based on contemporary handwriting styles.
+
+Two well known 15th century font designers were Nicolas Jenson and Aldus Manutius.
+
+Nicolas Jenson - a businessman, followed what he considered good business practices. He aimed for clear fonts, using the handwriting of famous a hand writer.
+
+Aldus Manutius - a humanist (study of classical antiquity), wanted to print the greek classics. This was a lesser market, so he branched into Latin classics. He would use famous calligraphers. One font he developed was "italic".
+
+The 16th century would see an evolution of sacred script that included roman & italic letters. One such font championed by Queen Elizabeth was the creation of an Irish bible to convert the Irish, called the "Queen Elizabeth Irish Type" 
+
+
+Illustration
+------------
+
+Wood cuts were in use before moveable type. They could be used alongside printing and where able to be used over & over. Etchings in copper prove more difficult ansd require a lot more pressure. There would be two separate processes for this. 
+
+Illustrators and etchers were two different people and skill sets. Engravings and etchings eventually replaced woodcuts. 
+
+Frontispiece - the illustration at the front of the book. Usually on the left hand side (verso) opposite of the title page (recto). This illustration gives us clues to what the book is about. The illustration can be the actual author, if they are famous. It could also be used to indicate how the book is to be read. In the case of a childrens book, a sitting parent reading to standing children. It could also be a scene like a port or a city that the story takes place in. Regardless, it plays an important role.
+
+
+
+Construction
+------------
+Sewing - needed to make sure that the sections stayed together. Often this was a simple stab binding, so that a custom binding could be done by a bookbinder. Stab bindings are best for pamplets, not books because of the difficulty in opening them. Traditional bookbinding had the signatures (squire) sewn on supports, either cords or straps. These bindings produce very sturdy books. These techniques are time consuming, so shortcuts were looked for, starting in the 16th century. 
+Another shortcut was headbands (aka endbands). They were originally used to strengthen books, so you could pull the book off the shelf and not damage the spine. Headbands were not attached to spine. This significantly reduces the books structural strength. Fake headbands were then used, simply pasted on the spine in the 19th century. This made on binding time significantly quicker.
+There was a need for increased production of books, so mechanization came into play also in the 19th century, with inferior paper quality was one result.
+see: https://travelingscriptorium.files.wordpress.com/2015/02/binding-booklet-2015.pdf
+
+Binding - once the textblock has been sewn, the binding is done. This step is also called forwarding. Originally a book might have a wood cover to protect it. This is expensive, so a paper cover was also used. This offers limited protection as the textblock could still be easily damaged. By the 17th century another option, pulp board was also being used. By the late 17th century milboard was being used, which uses fibres from rope to make the board. Today it is called davey board, or straw board, or book board. Germans preferred to trim the covers after attachment, while English and French preferred to trim before.
+There was usually end papers sewn or attached to the textblock to prevent dust & dirt from damaging thge textblock. After the boards are attached, then the book was covered in leather. There are three types: goat, calf, and sheep. Leather is either tanned or tawed. Tanned means soaked in "tannin", while "tawed" (soaked in alum and salt to produce a white colour). One could also use vellum or parchment. This is the skin of the animal and needed no chemical treatment.
+
+Finishing - this is the process of adding decoration to the book. There are many different decoration types. They are:
+	- marbling - edges and end papers of book. Used as a cheaper (than gold tooling) but nice way of decorating.
+		 	   - becmae more common late 17th century.
+	- gilding - edges of book, adding gold-leaf to the edges of a book. 
+	          - uses egg white as a glue for the the gold leaf. 
+	- gauffering - edges of book
+	- blind tooling - on the cover & spine. Blind means no gold. Leather is moistened. 
+					- Tools are hot for crispness, or cold, to avoid discolorization.
+	- gold tooling - on the cover & spine.

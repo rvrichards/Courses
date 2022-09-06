@@ -1,0 +1,360 @@
+Washi
+-----
+
+https://www.futurelearn.com/courses/japanese-book-paper
+https://padlet.com/fl_keio/5wu0t722aewh
+
+
+Washi is traditional Japanese paper
+	Wa  = Japanese
+	shi = paper
+	Washi = Japanese paper
+Washi is made from kozo or gampi or mitsumata fibers.
+Different colours and papermaking techniques affect the paper quality & look.
+Chinese books often use bamboo paper, it has a more yellow/brown look than pure white.
+Quoting...
+	Paper is a medium used for such activities as writing, printing, and wrapping. The process through which it is made can be summarized as follows: first, plant fibers are extracted through a combination of human-made tools and chemical reactions; then, they are soaked in water to obtain a pulp; the water is then drained using a sieve in order to leave the cellulose on the sieve and form a wet paper membrane. After drying, the cellulose bonds together via hydrogen bonding to yield a thin sheet. [1]
+	The two operative words here are “plant fibers” and “hydrogen bonding”. Paper can be defined as a sheet of cellulose cells connected together via hydrogen bonding. Plants fibers are not used as they are but first brought to their purest form. The fibers are first separated in water and then allowed to bond together via hydrogen bonding. These two processes are indispensable for making paper. The fibers are not joined together with adhesives but caused to bond together through a chemical reaction.
+
+Paper made from bamboo or papyrus are not "paper" as the bonding is by fermentation and not hydrogen bonding.
+
+Types of Washi
+--------------
+
+Kigami, Kisukigami (raw or natural paper) - paper without additives
+Jukushi (finished paper) - specially-treated Kigami paper for a variety of uses
+Eishi (polished paper) - a kind of jukushi in which the part where the writing goes is first rubbed with a hard object
+Uchigami (hammered paper) - another kind of jukushi; the entire sheet is hammered with a wooden mallet
+Tsugigami (connected paper) - multiple kinds of papers connected together; more details in week 2
+Mica-based paper - paper decorated with mica; more details in week 2
+
+
+
+ToDo
+----
+
+https://vimeo.com/123717414
+https://www.youtube.com/watch?v=DCR8n7qS43w
+http://www.biology-pages.info/H/HydrogenBonds.html
+https://www.researchgate.net/figure/Successive-steps-of-hydrogen-bonds-formation-between-fibres-in-paper-A-bonding-via-a_fig5_303552314
+
+
+Classification by Raw Material
+------------------------------
+
+Mashi (hemp paper) -- Paper made from hemp
+Choshi or kōzogami (mulberry paper) -- Paper made from the mulberry plant
+Gampi-shi (gampi paper) -- Paper made from the gampi plant 
+  -- AKA hishi, literally, “beautiful paper”.
+Mitsumata-gami (mitsumata paper) -- Made from the mitsumata plant.
+
+
+Classification by Production Method
+-----------------------------------
+
+	tamezuki -- The Western tamezuki (“accumulated papermaking”) method produces thick paper.
+	nagashizuki -- The Japanese nagashizuki (“discharged papermaking,”) method yields thinner paper.
+	            -- The nagashizuki method requires the use of neri (a viscous liquid that acts as a dispersing agent)
+	            -- This process is fast, as it allows to produce a larger quantity of sheets in a short time.
+	tamezuki -- This method requires time to drain the water at each use.
+
+
+Paper types optimized for writing
+	Eishi (Polished paper) -- This paper surface is leveled and smoothened by rubbing it with a hard, smooth object such as an animal tusk or a rock 
+	Uchigami (Hammered paper)  -- The paper surface is leveled by pounding it with a wooden mallet. The name is used for both the paper and the process. Sometimes, water is added to the paper before hammering it.
+	Dōsagami (Dōsa paper) -- This paper is varnished with a mixture of liquid glue and alum granules called dōsa. Also known as dōsabiki (“dōsa coating”). This treatment prevents ink and paint from smudging and increases vividness. The same method is also used on silk. Using a larger amount of alum granules can cause acid deterioration of the paper.
+
+
+
+Paper varieties by period
+-------------------------
+Shukushi (Re-used paper)  -- This is a traditional version of recycled paper. Because of the ink on the paper that was re-processed, it has a distinctive greyish color. It has been in use since the Heian period (794-1185).
+Suibaragami (Suibara paper) -- AKA sugiharagami, sugihara-shi or suibara-shi. It was first used in the medieval period (1185-1602) and was particularly favored by the members of the warrior class. It was made by adding rice flour to paper mulberry (kōzo) fibers to make the surface smoother (fig.5).
+Maniaigami -- Literally, “makeshift paper”. Paper made by adding clay or other mineral to gampi fibers. Because of its sturdiness, it was used on such items as sliding doors (fusuma) and ornamental folding screens (byōbu). In books, it was used to make Muromachi-period illustrated books (known as “Nara ehon”).
+Sukikaeshi -- Like the shukushi, it is a kind of recycled paper, but it differs from it in that substances other than plant fibers were used to make the pulp. It was used in Edo-period mass-market books and on the back of covers to increase the thickness.
+
+
+Papers with distinctive textures
+--------------------------------
+Danshi -- Sometimes called “Ceremony paper”. The paper has a creased texture that is obtained by hanging the sheets on a cord when they are dried 
+Chirimen -- Japanese crepe texture paper. The name chirimen originally referred to roughly woven silk. Chirimen paper is meant to replicate the rough texture of roughly woven silk. The effect can be obtained by working choshi paper after it is printed so that fine creases appear throughout.
+
+
+
+Papers made in various parts of Japan
+-------------------------------------
+Hosokawa paper -- Hosokawa-shi. Is from near Mount Koya in Kishū (today’s Wakayama prefecture) where this technique originated. Its source material is kōzo.
+Echizen Hōsho paper -- Comes from the Echizen region (today’s Fukui prefecture) where this technique originated. Its source material is also kōzo. Hōsho (in Japanese) is an official letter format. It was used for official government communications to functionaries. Since the medieval period (1185-1602), paper made in the Echizen region was used for this particular kind of official letters.
+Mino-gami -- The name Mino comes from the Mino region (today’s Gifu prefecture) where this technique originated.  Around 702 C.E. Its source material is also kōzo.  Mino paper are 39 x 27cm. When folded in two, it is about 20 x 27cm; traditional books using this half-size mino paper are called Ōhon (“large books”). When folded in four, it is about 13 x 19cm; traditional books using the quarter-size mino paper are called Chūhon (mid-size books).
+Nishinouchi gami -- The name Nishinouchi comes from the Nishinouchi town of the Hitachi region (today’s Ibaraki prefecture) where this technique originated. The source material is also kōzo and it is a thick paper.
+Sekishū hanshi -- Comes from the Iwami region (today’s Shimane prefecture) where this technique originated. Its source materials are kōzo, mitsumata and gambi. It is known for its toughness.
+
+
+Uses of washi paper
+-------------------
+Koyori -- This is a paper string, often used by libraries to repair traditional Japanese books. In order to make a Koyori as strong as wire, you need to choose the right type of paper. Hosokawa paper is one of the best. Nishinouchi paper made in Ibaraki prefecture is also known to be a good choice to make Koyori.
+
+Washi used for repairing book -LoC uses it to repair their books.
+
+
+Papermaking
+-----------
+The old Chinese Book of Later Han ((Hou Hanshu, 5th century C.E.)) records how paper was made by its inventor, Cai Lun (50-121 C.E.). Let’s trace together the basic process that he used.
+1. The first stage was to turn the plants or clothes made from plants material into fibers. As raw materials, Cai Lun used tree bark, hemp, rags, and fishing nets and separated the fibers using a stone mortar. Through this process, the cellulose was first extracted from the raw material.
+2. The second stage was to immerse the fibers in water in order to favor hydrogen bonding between the fibers. To compose the fibers into sheets, Cai Lun used a flat sieve-like mat. The mat separates the fibers from the water and the fibers connect together to form a sheet.
+3. The third stage consisted in removing the excess wetness and allowing the tightly connected fibers to dry.
+This three-stage process became the basic process to make paper. Once this initial process was devised, the methods and the materials continued to evolve giving rise to a great variety of different papers.
+
+
+The second stage - making paper
+-------------------------------
+The two main methods to make paper are 
+:
+	1. "Pouring” or gyōshi method 
+	2. "Dipping” or shōshi method. The shōshi method is used to make Washi papers.
+		tamezuki - thick papers
+		nagashizuki - thin paper.  eri (a glutinous vegetable substance)  (in China, neri is known as zhiyao, or, “paper medicine”) 
+		tengujōshi - the world’s thinnest paper, is used by restorers worldwide including at the Vatican.
+
+The shape and size of the flexible screen (sunoko or simply su) also varies by area. The sunoko leaves horizontal line marks on the paper that are traditionally called su-no-me (su marks).
+
+
+
+
+The third stage - drying
+------------------------
+For the third stage, drying, in Japan the sheets are placed on wooden boards. In China and Korea, they were usually pasted on a wall. In Europe, they were hung on ropes. Different materials and manufacturing methods give the paper different characteristics which in turn affect their use in bookmaking.
+
+
+Materials to make paper
+-----------------------
+Japanese paper is primarily made from plants. 
+
+Here are the most common fibres..
+
+Ramie (choma) - This perennial plant from the nettle family (Urticaceae) is variously known as choma, karamushi or mao (fig. 1) and is sometimes mentioned in classical Japanese poetry (waka). Its long fibers can be woven into thread to make fabric. When used to make paper, they are cut.
+
+Paper mulberry (kōzo) - The renowned kōzo (Brussonetia papyrifera) is a shrub of the Moraceae family. The most common type of washi was made from the bark of this plant. It is the paper used to print the famous Hyakumantō dharani (One Million Pagodas and Dharani Prayers, 770), Japan’s oldest printed text. Because it is easy to cultivate, it was widely used all across Japan.
+
+Gampi (gampi) - The gampi (Diplomorpha sikokiana or Wikstroemia sikokiana) are a group of shrubs of the genus Wikstroemia. It is the main ingredient of the beautiful hishi paper. It is difficult to grow in cultivation, so it was considered extremely precious. It is thick and smooth which makes it suitable for writing on both sides; it was also used as tracing paper.
+
+Mitsumata - The mitsumata plant (Edgeworthia chrysantha, fig. 4) belongs to the same genus as the gampi but unlike the gampi, it can be grown in cultivation. The paper is similar to gampi but not identical. Because close to 70% of Japan is covered by forest, the supply of raw materials was generally less problematic than in other areas, which allowed papermakers to experiment with new materials and production techniques virtually continuously since 700CE. The use of Gampi and mitsumata as materials for papermaking, which is unique to Japan, was discovered at some point during this long process.
+
+
+Neri
+Plants are also the main ingredient to make neri, a starchy substance that is added to the pulp as a dispersant.
+In some parts of Japan, neri is called nori which, confusingly, sounds identical to nori (glue, adhesive). The two are completely different substances used for different purposes and should not be confused. Neri (not nori) is used in the vat to separate the fibers and, later, to prevent the sheets of finished paper from sticking together. It is an important ingredient in the nagashizuki papermaking method, which we looked at in the previous Step.
+
+Tororoaoi - The most commonly used neri is made from the aibika plant (J. tororo-aoi, Abelmoschus manihot) . The roots of the plant are pounded and soaked in water to obtain a viscous liquid. Because it is most effective as a dispersant at low temperatures, in cases when neri made from the aibika plant is used paper is made in wintertime. Incidentally, this is also why in haiku poetry “papermaking” (kamisuki) is a “winter” seasonal word (kigo).).
+
+Panicled Hydrangea - In some areas of Japan, the panicled hydrangea (J. noriutsugi, Hydrangea paniculata Siebold) was used as a substitute for aibika. Although less powerful as a dispersing agent than the aibika-based neri, noriutsugi is not affected by temperature variations so it can be used throughout the year.
+
+
+Video - Why Look at paper
+	hanshi
+	timber
+	gampi
+	hishi
+	choshi paper (kōzogami)
+	kōzo (paper mulberry)
+	watermarks
+	su-no-me
+	su, flexible screen
+	bamboo screen (called take-su)
+	shazuki
+	flexible-sieve
+	phloem fibers
+
+
+
+Identify the Material
+Plants used to make Japanese paper belong to the Dicotyledon group. They are very similar, so we need a microscope.
+Which plants are used can also help identify where it came from as different regins in Japan use different plants.
+
+The paper used in Chinese books is called “bamboo paper” (chikushi). Chikushi paper fibers come from the moso bamboo, a plant of the Monocotyledon group. Monocotyledons come in many different shpes, unlike Dicotyledons.
+
+Ramie fiber - are very long and most appear to be cut. Compared to other fibers they are wider and shaped like a ribbon. Paper made from them is very white but the surface is rough.
+
+Kōzo fibers - are longer than gampi and mitsumata fibers. They give a very white paper.
+
+Gampi fibers - have characteristically round ends. The paper tends to be less white than the preceding two fibers.
+
+Mitsumata fibers - the distinctive characteristic of Mitsumata fibers is that the center is larger than the ends. Like the gampi, mitsumata paper is less white.
+
+In order to examine Japanese paper, a magnification of 50x is enough. To examine a western paper, a magnification of 100x or higher is recommended.
+
+Pen-shaped loupe, camera outfitted with a microscope, Digital microscope
+
+
+
+Origins of paper
+Let us trace together the origins of paper. The word “paper” appears in the Chinese dynastic history Book of the Later Han (Hou Hanshu, 5th century CE). According to this text, Cai Lun (fig.1) presented paper to emperor He in the first year of the Yuanxing era.
+
+This is the earliest mention of paper in a written source. However, since the graph for paper [紙] is listed in the 2nd-century dictionary Shuowen Jiezi (J. Setsumon kaiji) (fig.2.), the invention of paper must predate Cai Lun by at least several decades. Cai Lun’s role was likely that of perfecting the materials, tools, and techniques of papermaking. The entry in the Book of the Later Han clearly states that Cai Lun used only plant fibers to make paper. Although hydrogen bonding is also used to strengthen animal fibers (e.g. in sericulture), it is most effective with plant fibers. Cai Lun was probably the first to use exclusively plant fibers to make paper and therefore he became known as the “inventor” of paper.
+
+The beginnings of paper in Japan
+The earliest mention of paper in a Japanese source is in the Nihon Shoki (Chronicles of Japan, 720). An entry dated Suiko 18 (610 C.E.) records the arrival in Japan of Tam-jing (known in Japanese as Donchō), a Buddhist monk from the Korean kingdom of Goguryeo. According to the entry, Tam-jing built the first water-powered stone mill to thresh barley, rice, etc. which is also an indispensable tool to crush the plant fibers into pulp. Although papermaking techniques probably had been introduced before (roughly at the same time as writing itself was introduced to Japan), it was with Tam-jing and his mill that Japanese papermaking truly came into its own.
+
+The situation outside of Japan
+In China, paper made from moso bamboo (Chinese mao zhu, fig. 1) was introduced roughly at the same time as book printing began in earnest. Before making the pulp, the bamboo is first fermented, a process which is known as “retting” (J. recchingu). In Europe, too, where rags and cotton were used as the main raw material, the rags were first fermented in water tanks before preparing the pulp.
+
+Canada: http://pubs.cif-ifc.org/doi/pdf/10.5558/tfc2014-151
+
+Asa (麻): Cannabis sativa L.. Hemp 
+bamboo paper (chikushi, 竹紙): a paper made from bamboo barks or baby bamboo
+bamboo screen (called take-su, 竹簀): a tool to form a sheet of paper, made by bamboo splints [1.15]
+
+
+
+Paper Decoration
+Brown is a traditional Japanese book color. Next is Blue 
+
+For yellows: ōbaku or Kihada (Phellodendron amurense) commonly called Amur Cork tree – used in paper for sutras and religious texts. Its bitter flavor was thought to repel insects.
+For browns: kakishibu (persimmon extract): produce a reddish brown color that gets more intense with repeated applications. When applied in generous amounts, it is thought to repel insects.
+For browns: chōji , a tree in the family Myrtaceae, Syzygium aromaticum. Cloves are the aromatic flower buds of this tree. The liquid made from the boiled down dried bud is used for dyeing.
+For blues: ai (indigo): in can be made darker through repeated dyeings.
+For reds:benibana (safflower, Carthamus tinctorius): it’s also used for rouge. For dyeing, the flowers at the tip of the stem, it is also called suetsumuhana meaning picking a flower on the top edge.
+For purples: murasaki plant: Boraginaceae , perennial plants. Liquid made from their root is used for dyeing. The purple is recognized as a noble color. But this color fades away easily when exposed to UV rays.
+
+
+Adding color to the paper after it has dried and gives a particularly vibrant color.
+This is called tsukezome (dip-dyeing) or hitashizome (soak-dying) 
+
+sukizome - The process of adding the coloring pigment directly to the pulp during the sheet-forming process is called sukizome. It is not are vibrant as the above method.
+
+Hakezome (brush-dyeing)
+In the hakezome method, the color is applied with a paintbrush to the finished book.
+
+Sometimes the brush strokes were deliberately left visible to form patterns. The most common color is brown obtained from persimmon extract. It was typically used on basic book covers made by simply folding a sheet of paper in two. Because many books of this kind are courtiers’ journals, this type of cover is known as “journal-style cover” (kiroku hyōshi).
+
+Fukizome (blow-dyeing)
+Fukizome consists in blowing small particles of liquid dye onto the paper.
+
+The intensity of the color can be varied by changing the blowing style, and patterns can be obtained by using stencils. There are some examples of early Buddhist texts decorated using the fukizome method while medieval Buddhist texts also have their covers decorated with this technique. Most of these early examples are brown, probably obtained from the clove (Japanese chōji, Syzygium aromaticum) or from persimmon tannin. The former is known as chōji-buki (literally, “clove-blowing”).
+
+
+Suminagashi (marbling)
+Marbling consists in floating dots of ink on water and gently working them to create interesting patterns. As the last step, a sheet of paper is immersed in the solution so that the pattern is transferred onto the paper. Already in use in the Heian period, the method remained in use until the early-modern period (1600-1868). By the 18th century, black ink was often combined with other colors, such as blue, red or gold. The final effect is similar to the marbled papers produced by Western papermakers.
+
+https://www.youtube.com/watch?v=12dSRw5Wzq4
+
+https://www.youtube.com/watch?v=12dSRw5Wzq4 - Suminagashi Paper Marbling DIY Japanese Water Marbling (How to Marble Paper)
+1,188,350 views
+
+
+Kumogami
+From here on, we will look at various techniques to decorate the paper at the sheet-forming stage and look at books that make use of them.
+
+We start with kumogami (“cloud-patterned paper”) which can be said to be the king of all Japanese decorated writing papers.
+
+Also known as uchigumori and uchigumorigami (“cloudy paper”), kumogami is made by layering dyed paper materials in the top and bottom sections of finished white paper. The parts of the paper with color have therefore a multi-layer structure. The standard color combination was indigo and purple, but there are also examples with only indigo or only purple. Starting in the 18th century, in the Edo period, various other colors such as green, brown and gray also came to be used.
+
+Kumogami has been in use continuously since the Heian period not only as writing paper, but also to make book covers and title slips (daisen), which were pasted on the front cover. As of the early Muromachi period, in the late 14th century, kumogami became the standard paper to use at waka gatherings for tanzaku, narrow strips of card on which poets inscribed the poems that they composed.
+
+It was standard practice to use indigo in the top section and purple in the bottom section of the tanzaku strip. The explanation that is usually given is that the indigo represents the sky and the purple represents the earth, so the opposite configuration (purple at the top and indigo at the bottom) would represent a disruption of the natural order (such as natural disasters). Another theory is that since people at the time believed that a purple cloud would come from paradise to retrieve people at the time of their death and take them to Amida’s paradise (the Pure Land), users would associate purple at the top with death and misfortune. That is why tanzaku strips inscribed with poems lamenting someone’s death will sometimes have purple at the top instead of the bottom. Sometimes, purple was placed at the top to match the text to be inscribed. For instance, purple at the top was used for poems on or mentioning wisteria (fuji), Japanese bush clover (hagi), peonies, and other purple flowers. However, tanzaku strips with purple at the top are rare. Interestingly, these conventions do not seem to have applied when kumogami was used in books.
+
+Ramonshi and tobikumogami
+In this Step, we look at two paper types that are created by overlaying thin layers of dyed paper onto a sheet of white paper: ramonshi and tobikumogami.
+
+Ramonshi (literally, “silk gauze-patterned paper”) is created by laying indigo or purple paper material onto finished paper to create a design that resembles the texture of silk gauze (ra). The only known examples of this kind of paper are from the Heian period. To this day, the exact manufacturing method for ramonshi is unclear.
+
+Tobikumogami (“Floating-cloud paper”) is made by laying paper material dyed with purple and indigo in patches on top of the finished paper as to resemble floating clouds. Like ramonshi, the only known examples of this kind of decoration are from the Heian period. During the Edo period, there was a revival of tobikumogami, but the shape of the clouds in these later examples is different from the older examples, and so is the overall feel of the paper. Some say that the older the example, the larger the size of the clouds.
+
+Although both ramonshi and tobikumogami are extremely rare, even rarer are examples of tobikumo paper decorated with ramon patterns and vice versa.
+
+Mizutamagami
+As our final example of decoration applied at the sheet-forming stage we look at mizutama-gami or “polka dots paper”.
+
+Mizutamagami is made by adding a thin layer of indigo or purple dyed paper to an existing sheet of paper. Before it dries, water droplets are dropped from above and their impact creates the water drop pattern from which the paper takes its name. In contrast to the three types we looked at earlier, there are no examples of this style before the 17th century, so the technique is likely to have been invented at that time. Since it is not really suitable to be used as writing paper, mizutamagami is easier to find on covers, colored paper, or tanzaku paper strips.
+
+
+Cut-and-Paste Techniques
+The golden age of paper decoration in Japanese book history was the 12th century, in the final part of the Heian period. At this time, an enormous amount of wealth was held by a small elite who pursued beauty and splendor with no thought of expense.
+
+Indeed, book decoration and political and economic history are closely interconnected. In this step, we look at various techniques involving the use of multiple pieces of paper to create the most opulent types of decorated paper in the 12th century. Based on the way the pieces are connected together, we can distinguish three basic types: kiritsugi (“cut and join”), yaburitsugi (“tear and join”), and kasanetsugi (“overlay and join”).
+
+In the Kiritsugi (“cut and join”) technique, papers of different color and decoration pattern are cut in straight lines and then mounted together along the edge on card. It is the easiest technique of the three, and can sometimes be seen in books from the 17th century, a time when the culture of the Heian period (ca. 800-1200) was much admired and often imitated.
+
+In the yaburitsugi (“tear and join”) technique, the seam between the different sheets is jagged as if the paper had been torn; the irregular outline where the different papers meet is its distinctive feature. The technique was often imitated in the 17th century, but as the edges were cut using bladed tools, the final effect is rather different from the Heian-period originals.
+
+The Kasanetsugi or “overlay” method is said to have derived from the yaburitsugi. Instead of using two sheets as in yaburitsugi, three or more sheets of colored paper are layered on top of each other, torn so as to obtain the same outline, and then pasted together in slightly offset layers. The effect resembles the multi-layered collar of a jūnihitoe (twelve layered kimono), the formal attire worn by Heian-period court ladies. Kasanetsugi is an advanced technique and is exceedingly rare, so rare that the Nishi Honganji-text of the Collections of the 36 Poets (see link) may be the only example in existence from the Heian period.
+
+
+Sunagogami and Hakuokigami
+Although the techniques we have seen so far make use of dyes the main ingredient is still paper. We will now discuss decoration techniques in which mineral materials are mixed with or added to the paper.
+
+In The Travels of Marco Polo, the great Venetian traveler describes Japan as “the golden country of Jipang”, a country full of gold. Looking at the decorations on traditional Japanese books, gold leaf and gold paint are used so profusely that one may well believe Marco Polo’s description to be true. Silver was also used as often. Another mineral that must be mentioned is mica. Mica powder was mixed with nikawa (an organic adhesive made from animal sources) in order to obtain a sparkling translucent glaze for paper decoration. Color pigments were also mixed with shell white (see Step 2.16) to make glossy paints of various colors.
+
+Specialists classify paper decorated with minerals by the form or shape of the mineral used (e.g. powder, foil, etc.). Paper decorated with powdered minerals is called sunagogami (“powder-dusted paper”), and paper made with gold and silver leaf is known as hakuokigami (hakuoki literally means “to add foil”).
+
+Sunagogami is made by sprinkling powdered gold leaf, silver leaf or other powdered minerals (e.g. mica) over the surface of paper pre-coated with glue. Different patterns can be created by reducing or increasing the amount of powder or by using stencils.
+
+By contrast, hakuokigami is made by pressing gold or silver leaf of different shape onto paper pre-coated with glue. Depending on their shape, the foil decorations are called kirigane (gold strips), kirihaku (small foil squares), sakihaku (torn foil), momihaku (crumpled foil), nogehaku (“foil tinsel”), among others. Some examples are decorated with only one type but often several different designs were used to decorate the same paper.
+
+
+Kirabiki and Gubiki
+In addition to gold and silver leaf, powdered mica (a transparent silicate called kira in Japanese) is also used as a material for paper decoration.
+
+When powdered mica is sprinkled on a sheet of paper pre-coated with nikawa (an organic adhesive made from animal parts), the paper acquires a sparkling sheen. Alternatively, the mica powder can be mixed with nikawa glue and then applied to the paper. The former technique is known as kirachirashi (lit. “mica dusting”), kirasunago-chirashi (lit. “mica powder-dusting”), etc. and the latter is called kirabiki (lit. “mica coating”). If a large amount of mica powder is used, the first method can also be called kirazuri (lit. “mica rubbing”). Besides books, this technique is used in ukiyoe woodblock prints (“pictures of the floating world”). The people of the past were obviously fascinated by the effects that these materials allowed to create.
+
+As an alternative to mica, powder was also made by baking and grinding the shells of clams and other mollusks. The resulting powder is called gofun (shell white, a form of calcium carbonate commonly known as chalk). Gofun is mixed with nikawa to create a white, paint-like substance that is applied to the paper using a brush. This technique is called gubiki (“shell white coating”). Color pigments can be added to the gofun to obtain a variety of different colors. Examples of gubiki paper date from the Heian period and from the Edo period, when the decoration styles of Heian-period books were often imitated.
+
+Watch the video to see examples of glossy paper made using the kirachirashi and kirabiki techniques and an example of thicker paper decorated with the gubiki technique.
+
+
+Karakami
+As our last example of paper decorated using minerals we look at karakami (Chinese-style paper).
+
+The word Karakami originally referred to paper imported from China (Kara = Cathay) but over time it came to indicate all paper treated with the gubiki technique and then decorated with printed patterns (using woodblock) using a mixture of mica and nikawa glue. Color can be added to both the shell white used in the gubiki method and to the mixture of mica and nikawa glue used for the patterns, so karakami can be made in a wide range of different color combinations.
+
+Initially karakami was imported from China during the Song dynasty (960-1279), but by the Heian period it was also produced in Japan. Karakami paper made in Japan is sometimes called wasei karakami, or, “Japan-made karakami”. As with many other ancient techniques and methods, there was a revival of karakami in the Edo period (1603-1868) and a lot of books from the period make use of it.
+
+
+We have learned about the following types of decorated paper:
+
+	- Sunagogami, paper decorated with gold and silver powder and mica
+	- Hakuokigami, paper decorated with gold and silver leaf
+	- Kirabiki, paper coated with powdered mica mixed with nikawa glue
+	- Gubiki, paper coated with shell white
+	- Karakami, paper with printed patterns
+
+
+Rōsen and yakie
+Next, we look at other kinds of paper that, like karakami, originally came to Japan from China.
+
+To make rōsen (wax-rubbed paper), gubiki paper (see Step 2.14) is placed on a block engraved with patterns and rubbed with an animal tusk (or other hard object) until the patterns are impressed on the paper. Because the patterns seem to be made with wax (rō), it is called “wax-rubbed paper” even though wax is not used in the process. Like before, the early examples date from the Heian period but it became popular again in the Edo period.
+
+The yakie (“branded pictures”) technique consists in heating up metal plates shaped with various designs and then pressing them onto the paper. This technique was also used in the Heian period but it is rarer than rōsen paper. 17th century examples are much easier to find.
+
+It is not easy tell the difference between rōsen and yakie from a photograph. The trick is to look at the darker areas of the page (the actual printed patterns) to see if they are glossy. Watch the video to see what they look like.
+
+Karaoshi (embossment)
+Unlike regular karakami, in which the blocks are first smeared with paint and then pressed onto the paper, the designs are applied to the paper by pressing it against the blocks to obtain a relief pattern.
+
+This technique was widely used for book covers in Korea during the Joseon dynasty (1392-1910) and some of the plates that were used are still extant. The technique was imported to Japan in the 16th century and was particularly used on the covers of printed books in the 17th and 18th centuries. Although the technique is essentially the same, the designs used in Japanese karaoshi covers often differ from the Korean ones and reflect the taste of the local craftsmen.
+
+
+The World of shita-e
+Prior to writing on them, the pages of traditional books were often decorated with painted motifs such as birds, plants, etc. using gold or silver paint (kindei and gindei). Because the motifs appear “under” the written text they are called shita-e (“under-pictures”).
+
+Although there are some early examples from the Heian period, the majority of examples dates from the 17th century, in the Edo period. Generally speaking, there is no direct connection between the painted motifs and the content of the written text, and this is also true of shita-e on shikishi and tanzaku paper strips used to inscribe kanshi (poems in Chinese) and waka poems.
+
+In some rare cases, however, there is a correlation between the painted motifs and the written text. These are usually cases when the shita-e were added to the book after it was made, to increase its value. Obviously, in such cases the decorations were applied after the written text, taking pains to avoid painting over it. These special cases are fairly easy to recognize from the unusual distribution of the painted motifs on the page.
+
+Though not technically “under pictures,” painted motifs were also added to the covers of books. Perhaps we might call these “cover paintings.” Many examples survive, the majority of which dates from the 17th century.
+
+
+Fabric book covers: kire
+Book are not always made only of paper. Book covers, for instance, were often made of fabric. Kire (fragments) are scraps of ancient fabric.
+
+In the video, the following types of fabrics are introduced:
+
+Ra or usuginu (silk gauze): Some Heian examples of books with covers made of ra survive.
+Kinran : silk with pattern woven in gold thread. The first examples were imported from China in the Kamakura period (1185-1333); production in Japan began in the Muromachi period.
+Donsu (“silk damask”): silk with designs created by using threads of different color for the warp and the weft. Like kinran, it was initially imported from China and then production started in Japan.
+Nishiki (“brocade”): General term for embroidered silk. The earliest examples date from the 5th century; produced in Japan since the Nara period (710-794 CE).
+Kinran-nishiki (“golden brocade”): silk with pattern woven from gold thread of different tones.
+Before the 16th century, fabric covers were made of silk gauze (ra or usuginu) or something close to it. Silk covers were used in such exceptional books as scrolls to be presented to the emperor. The development of the tea ceremony in the 16th century (Azuchi-Momoyama period), led to a fad for Chinese silk and other expensive imports from China, and before long different types of silk began to be used to make book covers. In addition to new books, silk covers were also used to replace damaged or soiled covers of pre-16th-century books.
+
+
+
